@@ -1,7 +1,0 @@
-# My Personal and Academic Goals for Next Year
-
-- Improve my skills in Git and GitHub.
-- Complete my current learning program with strong results.
-- Start contributing to open-source projects.
-- Build at least 2 personal coding projects.
-- Improve my communication and collaboration skills.
